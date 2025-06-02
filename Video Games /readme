@@ -1,1 +1,15 @@
+Space Scene Part 1 - https://drive.google.com/file/d/1G-oxmQ-QqK_QREm39Vpg321s_pIyknCQ/view?usp=sharing
+- Created space environment, adding planet, moons, ring, satellites, lunar and moon trash
+- Added rotations to all elements
+- 3 different camera angles
 
+Space Scene Part 2 - https://drive.google.com/file/d/1B6TQJh-X0JrbQXjSdRmL04gILqgxcV1T/view?usp=sharing
+- replaced certain elements for a cleaner environment
+- added movement for the spaceship, integrating yawn and pitch as well as a boost clicking the space bar
+- integrated UI to keep track of health, score, and time
+- added collisions with space elements
+
+Crowd Scene - https://drive.google.com/file/d/1g_P8-Jh1CpF5E9HUzL3YCAyLkTlOBLuS/view?usp=sharing
+- throwing grenade makes crowd run away
+- people will avoid running into the player
+- people will roam around
